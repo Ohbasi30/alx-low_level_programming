@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_alphabet - check the code for Holberton School students.
+ *print_alphabet - check the code prints the alphabet in lowercase
  *
  *Return: Always 0.
  */
