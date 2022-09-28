@@ -7,7 +7,6 @@
  * @n: how much we copy
  *
  * Return: pointer to dest
- *
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
@@ -20,7 +19,5 @@ char *_memcpy(char *dest, char *src, unsigned int n)
 		dest++;
 		src++;
 	}
-
-        return (ptr);
-
+	return (ptr);
 }
